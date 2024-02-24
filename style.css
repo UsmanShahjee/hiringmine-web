@@ -1,0 +1,124 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.body {
+    height: 100%;
+    width: 100%;  
+}
+
+.navbar navbar-expand-lg bg-body-tertiary {
+    
+
+    background-color: #000000;
+}
+
+
+.main {
+    background-color: #000000;
+}
+
+.one {
+    width: 95%;
+    height: 250px;
+    margin-left: 35px;
+    margin-top: 100px;
+    padding-left: 100px;
+}
+
+
+.container-fluid {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.two {
+    font-size: 20px;
+    font-weight: bold ;
+    font-family: Helvetica, Arial, sans-serif;
+    color: #4d3bdb;
+}
+
+.three {
+    font-size: 20px;
+    font-weight: bold ;
+    font-family: Helvetica, Arial, sans-serif;
+    color: #4d3bdb;
+}
+
+
+.four {
+    font-size: 20px;
+    font-weight: bold ;
+    color: white;
+}
+
+.five {
+    font-size: 20px;
+    font-weight: bold ;
+    color: white;
+}
+
+.six {
+    font-size: 20px;
+    font-weight: bold ;
+    color: white;
+}
+
+.seven {
+    
+    height: 100px;
+    width: 95%;
+    margin-left: 35px;
+    margin-top: 20px;
+}
+
+.eight {
+    height: 100%;
+    width: 35%;
+    color: #4d3bdb;
+    border-radius: 10px;
+}
+
+#nine {
+    border-radius: 20px;
+    border-color: black;
+    height: 100%;
+    width: 100px;
+    background-color: #4d3bdb;
+    color: white;
+
+
+}
+
+#ten {
+    border-radius: 10px;
+}
+
+.ele {
+    background-color: aquamarine;
+    height: 200px;
+    width: 95%;
+    margin-left: 80px;
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.button {
+    border-radius: 1px;
+}
+
+.twe {
+    height: 500px;
+    width: 95%;
+    object-fit: cover;
+}
+
+
+
+
+
+
+
